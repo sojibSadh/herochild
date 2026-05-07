@@ -1,7 +1,7 @@
 # Hero Kidzz - Project Assets
 <img src="public/assets/hero.png">
 
-## Overview
+## Overviews
 
 Hero Kidzz is a small, single-vendor e-commerce web application designed for selling children's products. This repository contains all project assets including images, icons, and media files.
 
